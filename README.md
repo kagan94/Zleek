@@ -10,3 +10,6 @@ We use conditional Random Fields (**CRF**) to recognize patterns in an image. Wi
 ![Table with iterations](http://clip2net.com/clip/m527982/0c5bd-clip-16kb.png)
 
 For suggestions, we will use Zalando API to propose related products to the person.
+
+General scheme of the project:
+![](http://clip2net.com/clip/m527982/5edda-clip-90kb.jpg)
