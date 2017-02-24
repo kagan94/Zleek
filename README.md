@@ -9,7 +9,7 @@ We use conditional Random Fields (**CRF**) to recognize patterns in an image. Wi
 [**More details can be found in the [article](http://hi.cs.waseda.ac.jp/~esimo/publications/SimoSerraACCV2014.pdf)**]
 * 3. Using the coordinates of the segments we ***identify patterns and colors in each garment***.
 
-![Logo Zleek](https://raw.githubusercontent.com/kagan94/Zleek/master/screenshoots/zleek_logo.jpg)
+![Logo Zleek](https://raw.githubusercontent.com/kagan94/Zleek/master/screenshoots/zleek_logo_sm.jpg)
 
 For suggestions, we will use Zalando API to propose related products to the person.
 ![App view](https://raw.githubusercontent.com/kagan94/Zleek/master/screenshoots/app_pic.jpg)
